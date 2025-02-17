@@ -20,7 +20,7 @@
 
         <title>NitiApp</title>
 
-        <link rel="icon" type="image/png" href="<?php echo base_url(); ?>assets/img/favicon.png">
+        <link rel="icon" type="image/png" href="<?php echo base_url(); ?>assets/img/niti-fevicon.png">
     </head>
     <body>
 
@@ -30,7 +30,7 @@
                 <div class="container">
                     <div class="pakap-responsive-menu">
                         <div class="logo">
-                            <a href="<?php echo base_url();?>"><img src="<?php echo base_url(); ?>assets/img/black-logo.png" alt="logo"></a>
+                            <a href="<?php echo base_url();?>"><img src="<?php echo base_url(); ?>assets/img/header_logo.png" alt="logo"></a>
                         </div>
                     </div>
                 </div>
@@ -38,17 +38,11 @@
             <div class="pakap-nav">
                 <div class="container">
                     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                        <a class="navbar-brand" href="<?php echo base_url();?>"><img src="<?php echo base_url(); ?>assets/img/black-logo.png" alt="logo"></a>
+                        <a class="navbar-brand" href="<?php echo base_url();?>"><img src="<?php echo base_url(); ?>assets/img/header_logo.png" alt="logo"></a>
                         <div class="collapse navbar-collapse mean-menu">
                             <ul class="navbar-nav">
                                 <li class="nav-item"><a href="<?php echo base_url();?>" class="nav-link active">Home</a></li>
-                                <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">About Niti</a>
-                                    <ul class="dropdown-menu">
-                                    <li class="nav-item"><a href="<?php echo base_url();?>company/about" class="nav-link">About Us</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>company/blog" class="nav-link">Blogs</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>company/contact" class="nav-link">Contact Us</a></li>
-                                    </ul>
-                                </li>
+                                <li class="nav-item"><a href="<?php echo base_url();?>company/about" class="nav-link">About Niti</a></li>
                                 <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Products</a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item"><a href="<?php echo base_url();?>product/sfaclm" class="nav-link">SFA / CLM</a></li>
@@ -59,7 +53,7 @@
                                         <li class="nav-item"><a href="<?php echo base_url();?>product/alltrack" class="nav-link">All Track / S&D BI</a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Resources</a>
+                                <!-- <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Resources</a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item"><a href="#" class="nav-link">Release Notes</a></li>
                                         <li class="nav-item"><a href="#" class="nav-link">Whitepapers</a></li>
@@ -67,12 +61,12 @@
                                         <li class="nav-item"><a href="#" class="nav-link">Privacy Poilicy</a></li>
                                         <li class="nav-item"><a href="#" class="nav-link">Terms & Conditions</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
                                 <li class="nav-item"><a href="<?php echo base_url();?>company/blog" class="nav-link">Blogs</a></li>
                                 <li class="nav-item"><a href="<?php echo base_url();?>company/contact" class="nav-link">Contact</a></li>
                             </ul>
                             <div class="others-option">
-                                <a href="contact.html" class="default-btn">Get Started</a>
+                                <a href="contact.html" class="default-btn">Let's Connect</a>
                             </div>
                         </div>
                     </nav>

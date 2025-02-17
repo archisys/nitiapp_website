@@ -42,10 +42,10 @@ Default CSS
 :root {
   --fontSize: 14px;
   --transition: .5s;
-  --mainColor: #ED2775;
+  --mainColor: #0094D6;
   --whiteColor: #ffffff;
   --blackColor: #262A37;
-  --gradientColor: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  --gradientColor: #0094D6;
   --paragraphColor: #716c80;
   --fontFamily: 'Inter', sans-serif;
 }
@@ -60,7 +60,11 @@ body {
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
   color: var(--blackColor);
-  font-weight: 700;
+  font-weight: 800;
+}
+
+.primary{
+  color: var(--mainColor);
 }
 
 a {
@@ -114,6 +118,10 @@ p:last-child {
   padding-top: 100px;
 }
 
+.pt-200 {
+  padding-top: 200px;
+}
+
 .pb-100 {
   padding-bottom: 100px;
 }
@@ -154,10 +162,8 @@ p:last-child {
   color: var(--whiteColor);
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  -webkit-box-shadow: 0px 12px 35px rgba(237, 39, 117, 0.25);
-          box-shadow: 0px 12px 35px rgba(237, 39, 117, 0.25);
   font-size: var(--fontSize);
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .default-btn::before {
@@ -523,14 +529,13 @@ textarea.form-control {
 
 .shape15 {
   position: absolute;
-  bottom: 10px;
   z-index: -2;
-  right: 50%;
 }
 
 .shape15 img {
   -webkit-animation: moveleftbounce 5s linear infinite;
           animation: moveleftbounce 5s linear infinite;
+          width: 99%;
 }
 
 .divider {
@@ -552,7 +557,7 @@ textarea.form-control {
 .page-title-area {
   z-index: 1;
   position: relative;
-  background: linear-gradient(50.48deg, #ED2775 -2.06%, #FF7448 93.55%);
+  background: linear-gradient(50.48deg, #0094D6 -2.06%, #FF7448 93.55%);
   padding-bottom: 100px;
   padding-top: 180px;
 }
@@ -1798,8 +1803,8 @@ New Demo CSS
 }
 
 .features-card.style-two .icon {
-  background: -webkit-gradient(linear, left top, left bottom, from(#ED2775), to(#FF7448));
-  background: linear-gradient(180deg, #ED2775 0%, #FF7448 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0094D6), to(#FF7448));
+  background: linear-gradient(180deg, #0094D6 0%, #FF7448 100%);
   -webkit-box-shadow: 15px 20px 35px;
           box-shadow: 15px 20px 35px;
   -webkit-box-shadow: unset;
@@ -1906,7 +1911,7 @@ New Demo CSS
 }
 
 .features-inner-card.with-box-shadow .icon i {
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
 }
 
 .features-inner-card .icon {
@@ -1972,7 +1977,7 @@ New Demo CSS
   transition: var(--transition);
   -webkit-box-shadow: 15px 20px 35px rgba(38, 42, 55, 0.08);
           box-shadow: 15px 20px 35px rgba(38, 42, 55, 0.08);
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
   color: var(--whiteColor);
   transition: var(--transition);
 }
@@ -2054,8 +2059,8 @@ New Demo CSS
 .app-about-content .list li .icon {
   width: 55px;
   height: 55px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ED2775), to(#FF7448));
-  background: linear-gradient(180deg, #ED2775 0%, #FF7448 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0094D6), to(#FF7448));
+  background: linear-gradient(180deg, #0094D6 0%, #FF7448 100%);
   position: absolute;
   text-align: center;
   color: var(--whiteColor);
@@ -2079,8 +2084,8 @@ New Demo CSS
 }
 
 .app-about-content .list li .icon.bg-3 {
-  background: -webkit-gradient(linear, left top, left bottom, from(#ED2775), to(#FF7448));
-  background: linear-gradient(180deg, #ED2775 0%, #FF7448 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0094D6), to(#FF7448));
+  background: linear-gradient(180deg, #0094D6 0%, #FF7448 100%);
   border-radius: 50px;
 }
 
@@ -2198,8 +2203,8 @@ New Demo CSS
 }
 
 .key-features-card .icon.bg2 i {
-  background: -webkit-gradient(linear, left top, left bottom, from(#ED2775), to(#FF7448));
-  background: linear-gradient(180deg, #ED2775 0%, #FF7448 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0094D6), to(#FF7448));
+  background: linear-gradient(180deg, #0094D6 0%, #FF7448 100%);
 }
 
 .key-features-card h3 {
@@ -2466,7 +2471,7 @@ New Demo CSS
   opacity: 0.5;
   position: absolute;
   border-radius: 50%;
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
   -webkit-transition: var(--transition);
   transition: var(--transition);
 }
@@ -2672,8 +2677,8 @@ New Demo CSS
 .app-ever-content .list li .icon {
   width: 55px;
   height: 55px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ED2775), to(#FF7448));
-  background: linear-gradient(180deg, #ED2775 0%, #FF7448 100%);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0094D6), to(#FF7448));
+  background: linear-gradient(180deg, #0094D6 0%, #FF7448 100%);
   position: absolute;
   text-align: center;
   color: var(--whiteColor);
@@ -2796,7 +2801,7 @@ New Demo CSS
   z-index: 1;
   -webkit-transform: translateY(-50%) translateX(-50%);
           transform: translateY(-50%) translateX(-50%);
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
   border-radius: 50%;
   color: var(--whiteColor);
   -webkit-box-shadow: 15px 25px 35px rgba(38, 42, 55, 0.2);
@@ -2886,7 +2891,7 @@ New Demo CSS
   z-index: 1;
   -webkit-transform: translateY(-50%) translateX(-50%);
           transform: translateY(-50%) translateX(-50%);
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
   border-radius: 50%;
   color: var(--whiteColor);
   -webkit-box-shadow: 15px 25px 35px rgba(38, 42, 55, 0.2);
@@ -3004,7 +3009,7 @@ New Demo CSS
 }
 
 .single-app-pricing-box .pricing-btn .default-btn::before {
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
 }
 
 .single-app-pricing-box .features-list {
@@ -3197,7 +3202,7 @@ New Demo CSS
 }
 
 .app-pricing-gradient-area {
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
 }
 
 .app-pricing-gradient-area .section-title .sub-title {
@@ -3228,7 +3233,7 @@ New Demo CSS
 }
 
 .app-pricing-gradient-area .single-app-pricing-box .pricing-btn .default-btn::before {
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
 }
 
 .app-pricing-gradient-area .single-app-pricing-box::before {
@@ -3390,7 +3395,7 @@ New Demo CSS
 }
 
 .new-app-download-content .btn-box.color-wrap .playstore-btn {
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
   color: var(--whiteColor);
 }
 
@@ -3719,7 +3724,7 @@ New Demo CSS
   content: '';
   position: absolute;
   border-radius: 50%;
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
   opacity: 0.5;
   -webkit-transition: var(--transition);
   transition: var(--transition);
@@ -3739,7 +3744,7 @@ New Demo CSS
   transition: var(--transition);
   -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
           transform: matrix(-1, 0, 0, 1, 0, 0);
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
 }
 
 .new-feedback-slides.owl-theme .owl-dots .owl-dot:hover span::before, .new-feedback-slides.owl-theme .owl-dots .owl-dot.active span::before {
@@ -4051,7 +4056,7 @@ New Demo CSS
 
 /* New Free Trial Area CSS */
 .new-free-trial-inner-box {
-  background: linear-gradient(221.69deg, #50E1E4 0%, #9A60EA 101.01%);
+  background: #0094D6;
   padding: 50px 70px;
   position: relative;
   z-index: 11;
@@ -4167,7 +4172,7 @@ New Demo CSS
 
 /* Gradient Funfacts Area CSS */
 .gradient-funfacts-area {
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
 }
 
 .single-funfacts-card {
@@ -4196,7 +4201,7 @@ New Demo CSS
 
 .single-funfacts-card p {
   font-size: 18px;
-  font-weight: 900;
+  font-weight: 700;
   color: var(--blackColor);
   margin-top: 15px;
   margin-bottom: 12px;
@@ -4237,7 +4242,7 @@ New Demo CSS
 }
 
 .single-blog-wrap-post .image .tag {
-  background: linear-gradient(88.83deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(88.83deg, #0094D6 0%, #FF7448 100%);
   color: var(--whiteColor);
   position: absolute;
   border-radius: 5px;
@@ -4468,6 +4473,11 @@ New Demo CSS
 .footer-wrap-shape img {
   width: 100%;
   opacity: 50%;
+}
+
+.ptb-20{
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 /* Max width 767px */

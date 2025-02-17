@@ -3,7 +3,7 @@ Banner Wrapper Area CSS
 =================================================*/
 .banner-wrapper-area {
   z-index: 1;
-  padding-top: 150px;
+  padding-top: 50px;
   position: relative;
   border-bottom: 1px solid #eeeeee;
 }
@@ -61,8 +61,7 @@ Partner Area CSS
 .partner-title {
   text-align: center;
   margin-bottom: 40px;
-  font-size: 17px;
-  font-weight: 500;
+  font-size: 40px;
 }
 
 /*================================================
@@ -219,7 +218,7 @@ Features Area CSS
 }
 
 .features-item .icon.bg2 {
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
 }
 
 .features-item .icon.bg3 {
@@ -305,7 +304,7 @@ Features Area CSS
 }
 
 .features-boxes-list li .features-list-box .icon.bg2 {
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
 }
 
 .features-boxes-list li .features-list-box .icon.bg3 {
