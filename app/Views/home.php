@@ -8,12 +8,11 @@
                 <div class="banner-wrapper-content">
                     <h1>Supercharge on-field sales with automation.</h1>
                     <p>Boost productivity, Track performance, and close more deals effortlessly.</p>
-                    <a href="contact.html" class="default-btn">Let's Connect</a>
                 </div>
             </div>
             <div class="col-lg-7 col-md-12">
                 <div class="banner-wrapper-image">
-                    <img src="<?php echo base_url();?>assets/img/niti_banner_sfa.png" alt="banner-img" width="80%">
+                    <img src="<?php echo base_url();?>assets/img/niti_banner_sfa.png" alt="banner-img" width="70%">
                 </div>
             </div>
         </div>
