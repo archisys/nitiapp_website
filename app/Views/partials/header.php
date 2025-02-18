@@ -53,20 +53,19 @@
                                         <li class="nav-item"><a href="<?php echo base_url();?>product/alltrack" class="nav-link">All Track / S&D BI</a></li>
                                     </ul>
                                 </li>
-                                <!-- <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Resources</a>
+                                <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Verticals</a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="#" class="nav-link">Release Notes</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Whitepapers</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Sitemap</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Privacy Poilicy</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Terms & Conditions</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">CDMO</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Medical and Healthcare</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">FMCG</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Field Force Management</a></li>
                                     </ul>
-                                </li> -->
+                                </li>
                                 <li class="nav-item"><a href="<?php echo base_url();?>company/blog" class="nav-link">Blogs</a></li>
-                                <li class="nav-item"><a href="<?php echo base_url();?>company/contact" class="nav-link">Contact</a></li>
+                                <!-- <li class="nav-item"><a href="<?php echo base_url();?>company/contact" class="nav-link">Contact</a></li> -->
                             </ul>
                             <div class="others-option">
-                                <a href="contact.html" class="default-btn">Let's Connect</a>
+                                <a href="<?php echo base_url();?>company/contact" class="default-btn">Let's Connect</a>
                             </div>
                         </div>
                     </nav>
