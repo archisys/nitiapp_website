@@ -269,7 +269,7 @@
 
 .pakap-nav .navbar .navbar-nav {
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 50px;
 }
 
 .pakap-nav .navbar .navbar-nav .nav-item {
@@ -283,7 +283,7 @@
   color: var(--whiteColor);
   -webkit-transition: var(--transition);
   transition: var(--transition);
-  font-weight: 600;
+  font-weight: 700;
   font-size: 15.2px;
   padding-left: 0;
   padding-right: 0;
@@ -332,11 +332,11 @@
   opacity: 0;
   z-index: 99;
   border: none;
-  width: 250px;
+  width: 325px;
   margin-top: 0;
   display: block;
   padding: 10px 0;
-  border-radius: 0;
+  border-radius: 10px;
   position: absolute;
   visibility: hidden;
   background: var(--whiteColor);
@@ -356,7 +356,7 @@
   position: relative;
   color: var(--blackColor);
   font-size: var(--fontSize);
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .pakap-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover {

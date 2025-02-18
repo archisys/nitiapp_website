@@ -5,7 +5,6 @@
             <div class="row align-items-center">
                 <div class="col-lg-9 col-md-9">
                     <div class="new-free-trial-content">
-                        <span class="sub-title">Not sure where to start?</span>
                         <h2>Let's connect to explore opportunities together</h2>
                         <form class="free-trial-form">
                             <input type="text" class="input-newsletter" placeholder="Enter Your Email Address" name="email">
@@ -21,9 +20,9 @@
                 </div>
             </div>
 
-            <div class="new-free-trial-shape">
-                <img src="<?php echo base_url(); ?>assets/img/more-home/free-trial/shape.png" alt="image">
-            </div>
+            <!-- <div class="new-free-trial-shape">
+                <img src="<?php //echo base_url(); ?>assets/img/more-home/free-trial/shape.png" alt="image">
+            </div> -->
         </div>
     </div>
 </div>
@@ -45,39 +44,28 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-6 col-sm-6">
-                        <div class="single-footer-widget pl-2">
-                            <h3>Company</h3>
-                            <ul class="links-list">
-                                <li><a href="about-simple.html">About Us</a></li>
-                                <li><a href="features-2.html">Core Services</a></li>
-                                <li><a href="privacy-policy.html">Refund Policy</a></li>
-                                <li><a href="faq.html">FAQ's</a></li>
-                                <li><a href="feedback.html">Reviews</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6">
+                    
+                    <div class="col-lg-3 col-md-3 col-sm-6">
                         <div class="single-footer-widget">
                             <h3>Products</h3>
                             <ul class="links-list">
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="contact.html">Support</a></li>
-                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                <li><a href="faq.html">FAQ's</a></li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="services.html">SFA / CLM</a></li>
+                                <li><a href="contact.html">Distributor Management / DMS</a></li>
+                                <li><a href="privacy-policy.html">Direct to Doctor App / HCP App</a></li>
+                                <li><a href="faq.html">Camp Management/ HCP Engagement</a></li>
+                                <li><a href="contact.html">Product Maintenance & Compliance</a></li>
+                                <li><a href="contact.html">All Track / S&D BI</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-3 col-sm-6">
-                        <div class="single-footer-widget">
-                            <h3>Useful Links</h3>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="single-footer-widget pl-2">
+                            <h3>Industries</h3>
                             <ul class="links-list">
-                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                <li><a href="privacy-policy.html">Return Policy</a></li>
-                                <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                                <li><a href="how-it-works.html">How It Works?</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="about-simple.html">Pharmaceutical</a></li>
+                                <li><a href="features-2.html">Medical and Healthcare</a></li>
+                                <li><a href="privacy-policy.html">FMCG</a></li>
+                                <li><a href="faq.html">Field Force Management</a></li>
                             </ul>
                         </div>
                     </div>
@@ -85,10 +73,10 @@
                         <div class="single-footer-widget">
                             <h3>Resources</h3>
                             <ul class="links-list">
-                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                <li><a href="privacy-policy.html">Return Policy</a></li>
+                                <li><a href="privacy-policy.html">About us</a></li>
+                                <li><a href="privacy-policy.html">Blogs</a></li>
                                 <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                                <li><a href="how-it-works.html">How It Works?</a></li>
+                                <li><a href="how-it-works.html">Privacy Policy</a></li>
                                 <li><a href="contact.html">Contact Us</a></li>
                             </ul>
                         </div>

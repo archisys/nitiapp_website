@@ -237,7 +237,7 @@ Features Area CSS
 }
 
 .single-features-box .icon.bg2 {
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
 }
 
 .single-features-box .icon.bg3 {
@@ -323,7 +323,7 @@ Features Area CSS
 }
 
 .features-content .features-list li .icon.bg3 {
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
 }
 
 .features-content .features-list li h3 {
@@ -419,7 +419,7 @@ Features Area CSS
 }
 
 .single-features-item .icon.bg3 {
-  background: linear-gradient(45deg, #ED2775 0%, #FF7448 100%);
+  background: linear-gradient(45deg, #0094D6 0%, #FF7448 100%);
 }
 
 .single-features-item .icon.bg4 {
@@ -528,7 +528,7 @@ Video Area CSS
   z-index: 1;
   -webkit-transform: translateY(-50%) translateX(-50%);
           transform: translateY(-50%) translateX(-50%);
-  background: linear-gradient(44.44deg, #ED2775 7.79%, #FF7448 94.18%);
+  background: linear-gradient(44.44deg, #0094D6 7.79%, #FF7448 94.18%);
   border-radius: 50%;
   color: var(--whiteColor);
   -webkit-box-shadow: 15px 25px 35px rgba(38, 42, 55, 0.2);
