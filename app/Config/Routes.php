@@ -19,3 +19,5 @@ $routes->get('/company/blog', 'Company::blog');
 $routes->get('/company/contact', 'Company::contact');
 $routes->get('/company/privacypolicy', 'Company::privacypolicy');
 $routes->get('/company/termsandcondition', 'Company::termsandcondition');
+
+$routes->get('/resources/mediarelease', 'Resources::mediarelease');

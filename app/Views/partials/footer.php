@@ -75,6 +75,7 @@
                             <ul class="links-list">
                                 <li><a href="privacy-policy.html">About us</a></li>
                                 <li><a href="privacy-policy.html">Blogs</a></li>
+                                <li><a href="<?php echo base_url(); ?>resources/mediarelease">Media Release</a></li>
                                 <li><a href="terms-conditions.html">Terms & Conditions</a></li>
                                 <li><a href="how-it-works.html">Privacy Policy</a></li>
                                 <li><a href="contact.html">Contact Us</a></li>

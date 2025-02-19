@@ -55,10 +55,11 @@
                                 </li>
                                 <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Verticals</a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="#" class="nav-link">CDMO</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Medical and Healthcare</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">FMCG</a></li>
-                                        <li class="nav-item"><a href="#" class="nav-link">Field Force Management</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">The Origin of Drugs and Medicines</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Contract Manufacturing Organizations (CMOs)</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Research and Development in Pharma</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Regulatory and Compliance Landscape</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Market Access and Commercialization</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a href="<?php echo base_url();?>company/blog" class="nav-link">Blogs</a></li>
