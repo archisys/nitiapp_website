@@ -61,7 +61,7 @@ Partner Area CSS
 .partner-title {
   text-align: center;
   margin-bottom: 40px;
-  font-size: 40px;
+  font-size: 2rem !important;
 }
 
 /*================================================
@@ -539,7 +539,7 @@ Blog Area CSS
   }
   .partner-title {
     margin-bottom: 30px;
-    font-size: 13px;
+    font-size: 2rem !important;
   }
   .overview-area .container-fluid {
     padding-left: var(--bs-gutter-x, 0.75rem);
@@ -762,7 +762,7 @@ Blog Area CSS
     display: inline-block;
   }
   .partner-title {
-    font-size: 15px;
+    font-size: 2rem !important;
   }
   .features-item h3 {
     font-size: 18px;

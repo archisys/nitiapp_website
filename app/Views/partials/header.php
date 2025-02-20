@@ -50,10 +50,11 @@
                                         <li class="nav-item"><a href="<?php echo base_url();?>product/directtodoctor" class="nav-link">Direct to Doctor App / HCP App</a></li>
                                         <li class="nav-item"><a href="<?php echo base_url();?>product/hCPengagement" class="nav-link">Camp Management/ HCP Engagement</a></li>
                                         <li class="nav-item"><a href="<?php echo base_url();?>product/productcompliance" class="nav-link">Product Maintenance & Compliance</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>product/alltrack" class="nav-link">All Track / S&D BI</a></li>
+                                        <li class="nav-item"><a href="<?php echo base_url();?>product/alltrack" class="nav-link">All Track / Performance BI
+                                        </a></li>
                                     </ul>
                                 </li>
-                                <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Verticals</a>
+                                <!-- <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Verticals</a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item"><a href="#" class="nav-link">The Origin of Drugs and Medicines</a></li>
                                         <li class="nav-item"><a href="#" class="nav-link">Contract Manufacturing Organizations (CMOs)</a></li>
@@ -61,7 +62,7 @@
                                         <li class="nav-item"><a href="#" class="nav-link">Regulatory and Compliance Landscape</a></li>
                                         <li class="nav-item"><a href="#" class="nav-link">Market Access and Commercialization</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
                                 <li class="nav-item"><a href="<?php echo base_url();?>company/blog" class="nav-link">Blogs</a></li>
                                 <!-- <li class="nav-item"><a href="<?php echo base_url();?>company/contact" class="nav-link">Contact</a></li> -->
                             </ul>
