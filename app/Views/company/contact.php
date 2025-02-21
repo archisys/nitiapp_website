@@ -5,8 +5,8 @@
         <div class="row align-items-center">
             <div class="col-lg-5 col-md-12">
                 <div class="banner-wrapper-content">
-                    <h1>Supercharge on-field sales with automation.</h1>
-                    <p>Boost productivity, Track performance, and close more deals effortlessly.</p>
+                    <h1>Beyond Business - Growing Together Through Trust and Collaboration</h1>
+                    <p>We go beyond business—building lasting relationships, solving challenges together, and growing through trust and collaboration. Let's thrive together.</p>
                 </div>
             </div>
             <div class="col-lg-7 col-md-12">
@@ -20,81 +20,28 @@
 </div>
 <!-- End Banner Wrapper Area -->
 
-         
-<!-- Start Partner Area -->
-<div class="partner-area pt-200 pb-100">
-    <div class="container">
-        <div class="partner-title">
-            <h3>Empowering top brands with <span style="color: #0094D6;">proven success<span></h3>
-            <p>Driving growth across industries with our solution.</p>
-        </div>
-        <div class="partner-slides owl-carousel owl-theme">
-            
-            <div class="partner-item">
-                <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/biotech-niti.png" alt="image">
-                </a>
-            </div>
-            <div class="partner-item">
-                <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/images (1).png" alt="image">
-                </a>
-            </div>
-            <div class="partner-item">
-                <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/hp-niti.png" alt="image">
-                </a>
-            </div>
-            <div class="partner-item">
-                <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/jlmor-niti.png" alt="image">
-                </a>
-            </div>
-            <div class="partner-item">
-                <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/kenstrar-niti.png" alt="image">
-                </a>
-            </div>
-            <div class="partner-item">
-                <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/omega elevator-niti.png" alt="image">
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Partner Area -->
 
 <!-- Start Overview Area -->
-<div class="overview-area pb-70">
+<div class="overview-area pt-200 pb-70">
             <div class="container-fluid">
             
                 <div class="row m-0">
                     <div class="col-xl-6 col-lg-12 col-md-12 p-0">
                         <div class="overview-content">
-                            <h2>Most Probably You Are Getting Best App Ever</h2>
+                            <h2>Your Vision, Our Mission </br>Let’s Connect</h2>
                             <!-- <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text. Never missyour chance its just began.</p> -->
                             <ul class="features-list">
                                 <li>
-                                    <div class="icon">
-                                        <i class="ri-download-cloud-2-line"></i>
-                                    </div>
-                                    <h3>Free Download App</h3>
-                                    <p>Just log in with your mail account from play store and using whatever you want for your business purpose.</p>
+                                    <h3>A New Chapter Begins Here!</h3>
+                                    <p>Every great story starts with a hello. Share your vision, and let's craft a success story together.</p>
                                 </li>
                                 <li>
-                                    <div class="icon">
-                                        <i class="ri-award-line"></i>
-                                    </div>
-                                    <h3>Trusted and Reliable</h3>
-                                    <p>Most provabily best you can trust on it, just log in with your mail account from play store and using whatever you want for your business.</p>
+                                    <h3>Bring Your Ideas to Life!</h3>
+                                    <p>From challenges to opportunities, we're ready to transform your ideas into innovative digital solutions.</p>
                                 </li>
                                 <li>
-                                    <div class="icon">
-                                        <i class="ri-cloud-line"></i>
-                                    </div>
-                                    <h3>Cloud Storage</h3>
-                                    <p>Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy.</p>
+                                    <h3>Together, Let's Build the Future!</h3>
+                                    <p>Join hands with us to create meaningful impact, drive growth, and set new benchmarks in the industry.</p>
                                 </li>
                             </ul>
                         </div>
@@ -180,9 +127,91 @@
         </div>
         <!-- End Overview Area -->
 
+         <!-- Start Contact Info Area -->
+    <div class="contact-info-area">
+            <div class="container">
+                <div class="contact-info-inner">
+                
+                    <div class="row justify-content-center">
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="single-contact-info-box">
+                                <div class="icon bg1">
+                                    <i class="ri-customer-service-2-line"></i>
+                                </div>
+                                <h3><a href="tel:(+91) 9327199271">(+91) 9327199271</a></h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="single-contact-info-box">
+                                <div class="icon">
+                                    <i class="ri-earth-line"></i>
+                                </div>
+                                <h3><a href="/cdn-cgi/l/email-protection#563e333a3a391626373d37267835393b"><span class="__cf_email__" data-cfemail="68000d040407281809030918460b0705">hello@nitiapp.com</span></a></h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="single-contact-info-box">
+                                <div class="icon bg2">
+                                    <i class="ri-map-pin-line"></i>
+                                </div>
+                                <h3>Empire Tower, F11/12,C.G Rd,Ahmedabad, Gujarat 380009</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!-- End Contact Info Area -->
+        
+         
+<!-- Start Partner Area -->
+<!-- <div class="partner-area pt-100 pb-100">
+    <div class="container">
+        <div class="partner-title">
+            <h3>Empowering top brands with <span style="color: #0094D6;">proven success<span></h3>
+            <p>Driving growth across industries with our solution.</p>
+        </div>
+        <div class="partner-slides owl-carousel owl-theme">
+            
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/biotech-niti.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/images (1).png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/hp-niti.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/jlmor-niti.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/kenstrar-niti.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/omega elevator-niti.png" alt="image">
+                </a>
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- End Partner Area -->
+
 
 <!-- Start New Feedback Area -->
-<div class="new-feedback-area pt-100 pb-100">
+<!-- <div class="new-feedback-area pt-100 pb-100">
     <div class="container">
         <div class="partner-title">
             <h3>Customer <span style="color: #0094D6;">success stories.<span></h3>
@@ -279,44 +308,9 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End New Feedback Area -->
 
-    <!-- Start Contact Info Area -->
-    <div class="contact-info-area">
-            <div class="container">
-                <div class="contact-info-inner">
-                
-                    <div class="row justify-content-center">
-                        <div class="col-lg-4 col-md-6 col-sm-6">
-                            <div class="single-contact-info-box">
-                                <div class="icon bg1">
-                                    <i class="ri-customer-service-2-line"></i>
-                                </div>
-                                <h3><a href="tel:(+91) 9327199271">(+91) 9327199271</a></h3>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6">
-                            <div class="single-contact-info-box">
-                                <div class="icon">
-                                    <i class="ri-earth-line"></i>
-                                </div>
-                                <h3><a href="/cdn-cgi/l/email-protection#563e333a3a391626373d37267835393b"><span class="__cf_email__" data-cfemail="68000d040407281809030918460b0705">hello@nitiapp.com</span></a></h3>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6">
-                            <div class="single-contact-info-box">
-                                <div class="icon bg2">
-                                    <i class="ri-map-pin-line"></i>
-                                </div>
-                                <h3>Empire Tower, F11/12,C.G Rd,Ahmedabad, Gujarat 380009</h3>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-        <!-- End Contact Info Area -->
+   
 
 <?php require_once APPPATH . 'Views/partials/footer.php'; ?>
