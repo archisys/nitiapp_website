@@ -4199,7 +4199,7 @@ New Demo CSS
 }
 
 .single-funfacts-card p {
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 700;
   color: var(--blackColor);
   margin-top: 15px;
@@ -4208,14 +4208,14 @@ New Demo CSS
 
 .single-funfacts-card h3 {
   margin-bottom: 0;
-  font-size: 36px;
-  font-weight: 900;
+  font-size: 70px;
+  font-weight: 600;
   color: var(--blackColor);
   line-height: 1;
 }
 
 .single-funfacts-card h3 .sign {
-  font-size: 32px;
+  font-size: 66px;
   position: relative;
   left: 2px;
 }

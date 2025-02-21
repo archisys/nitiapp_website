@@ -5,10 +5,11 @@
             <div class="row align-items-center">
                 <div class="col-lg-9 col-md-9">
                     <div class="new-free-trial-content">
-                        <h2>Let's connect to explore opportunities together</h2>
+                        <h2>Pharma Operational Hurdles? </br>Let's Raise the Bar with Global Standards!
+                        </h2>
                         <form class="free-trial-form">
-                            <input type="text" class="input-newsletter" placeholder="Enter Your Email Address" name="email">
-                            <button type="submit" class="default-btn">Get Started</button>
+                            <input type="text" class="input-newsletter" placeholder="Share Your Email to Begin" name="email">
+                            <button type="submit" class="default-btn">Start the Conversation</button>
                         </form>
                     </div>
                 </div>
@@ -37,7 +38,7 @@
                             <a href="index-2.html" class="logo">
                                 <img src="<?php echo base_url(); ?>assets/img/logo.png" alt="logo">
                             </a>
-                            <p>Best solution for your it startup business, consecteturadipiscing elit. Scelerisque amet odio velit,  auctor nam elit nulla.</p>
+                            <p>AI-driven pharma solutions that boost efficiency, streamline operations, and deliver global standards of excellence.</p>
                             <ul class="social-links">
                                 <li><a href="#" target="_blank"><i class="ri-twitter-fill"></i></a></li>
                                 <li><a href="#" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
@@ -54,18 +55,16 @@
                                 <li><a href="privacy-policy.html">Direct to Doctor App / HCP App</a></li>
                                 <li><a href="faq.html">Camp Management/ HCP Engagement</a></li>
                                 <li><a href="contact.html">Product Maintenance & Compliance</a></li>
-                                <li><a href="contact.html">All Track / S&D BI</a></li>
+                                <li><a href="contact.html">All Track / Performance BI</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget pl-2">
-                            <h3>Industries</h3>
+                            <h3>Company</h3>
                             <ul class="links-list">
-                                <li><a href="about-simple.html">Pharmaceutical</a></li>
-                                <li><a href="features-2.html">Medical and Healthcare</a></li>
-                                <li><a href="privacy-policy.html">FMCG</a></li>
-                                <li><a href="faq.html">Field Force Management</a></li>
+                            <li><a href="privacy-policy.html">About us</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -73,11 +72,11 @@
                         <div class="single-footer-widget">
                             <h3>Resources</h3>
                             <ul class="links-list">
-                                <li><a href="privacy-policy.html">About us</a></li>
                                 <li><a href="privacy-policy.html">Blogs</a></li>
+                                <li><a href="<?php echo base_url(); ?>resources/mediarelease">Media Release</a></li>
                                 <li><a href="terms-conditions.html">Terms & Conditions</a></li>
                                 <li><a href="how-it-works.html">Privacy Policy</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                
                             </ul>
                         </div>
                     </div>
