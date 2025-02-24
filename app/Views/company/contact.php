@@ -115,7 +115,7 @@
             </div>
             <div class="partner-item">
                 <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/app-progress/zenx.webp" alt="image">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/zenex.png" alt="image">
                 </a>
             </div>
             <div class="partner-item">
