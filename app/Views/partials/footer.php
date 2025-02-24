@@ -16,7 +16,7 @@
 
                 <div class="col-lg-3 col-md-3">
                     <div class="new-free-trial-image">
-                        <img src="<?php echo base_url(); ?>assets/img/more-home/free-trial/free-trial.png" alt="image">
+                        <img src="<?php echo base_url(); ?>assets/img/footer.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -35,9 +35,10 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="single-footer-widget">
-                            <a href="index-2.html" class="logo">
+                        <h3>About Niti</h3>
+                            <!-- <a href="index-2.html" class="logo">
                                 <img src="<?php echo base_url(); ?>assets/img/logo.png" alt="logo">
-                            </a>
+                            </a> -->
                             <p>AI-driven pharma solutions that boost efficiency, streamline operations, and deliver global standards of excellence.</p>
                             <ul class="social-links">
                                 <li><a href="#" target="_blank"><i class="ri-twitter-fill"></i></a></li>
@@ -50,12 +51,12 @@
                         <div class="single-footer-widget">
                             <h3>Products</h3>
                             <ul class="links-list">
-                                <li><a href="services.html">SFA / CLM</a></li>
-                                <li><a href="contact.html">Distributor Management / DMS</a></li>
-                                <li><a href="privacy-policy.html">Direct to Doctor App / HCP App</a></li>
-                                <li><a href="faq.html">Camp Management/ HCP Engagement</a></li>
-                                <li><a href="contact.html">Product Maintenance & Compliance</a></li>
-                                <li><a href="contact.html">All Track / Performance BI</a></li>
+                                <li><a href="#">SFA / CLM</a></li>
+                                <li><a href="#">Distributor Management / DMS</a></li>
+                                <li><a href="#">Direct to Doctor App / HCP App</a></li>
+                                <li><a href="#">Camp Management/ HCP Engagement</a></li>
+                                <li><a href="#">Product Maintenance & Compliance</a></li>
+                                <li><a href="#">All Track / Performance BI</a></li>
                             </ul>
                         </div>
                     </div>
@@ -63,8 +64,8 @@
                         <div class="single-footer-widget pl-2">
                             <h3>Company</h3>
                             <ul class="links-list">
-                            <li><a href="privacy-policy.html">About us</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
+                            <li><a href="#">About us</a></li>
+                            <li><a href="#">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -72,10 +73,10 @@
                         <div class="single-footer-widget">
                             <h3>Resources</h3>
                             <ul class="links-list">
-                                <li><a href="privacy-policy.html">Blogs</a></li>
-                                <li><a href="<?php echo base_url(); ?>resources/mediarelease">Media Release</a></li>
-                                <li><a href="terms-conditions.html">Terms & Conditions</a></li>
-                                <li><a href="how-it-works.html">Privacy Policy</a></li>
+                                <li><a href="#">Blogs</a></li>
+                                <li><a href="#">Media Release</a></li>
+                                <li><a href="#">Terms & Conditions</a></li>
+                                <li><a href="#">Privacy Policy</a></li>
                                 
                             </ul>
                         </div>
