@@ -277,7 +277,7 @@
             </div>
             <div class="partner-item">
                 <a href="#" class="d-block">
-                    <img src="<?php echo base_url(); ?>assets/img/app-progress/zenx.webp" alt="image">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/zenex.png" alt="image">
                 </a>
             </div>
             <div class="partner-item">
@@ -476,7 +476,7 @@
                 <img class="ptb-20" src="<?php echo base_url();?>assets/img/azure.png" alt="blog">
             </div>
             <div class="col-md-3">
-                <img class="ptb-20" src="<?php echo base_url();?>assets/img/images.png" alt="blog">
+                <img class="ptb-20" src="<?php echo base_url();?>assets/img/ibm-logo-tableau-qlikview-tableau-power-power-20.png" alt="blog">
             </div>
             <div class="col-md-3">
                 <img src="<?php echo base_url();?>assets/img/heroku-logo.png" alt="blog">
