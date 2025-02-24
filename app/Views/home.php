@@ -112,7 +112,7 @@
         <div class="row justify-content-center">
             
                 <div class="col-lg-4 col-sm-6 col-md-6">
-                    <a href="<?php echo base_url();?>product/sfaclm">
+                    <a href="#">
                         <div class="features-item with-border">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/img/attandance.png">
