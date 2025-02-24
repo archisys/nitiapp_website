@@ -17,6 +17,7 @@ $routes->get('/product/alltrack', 'Product::alltrack');
 $routes->get('/company/about', 'Company::about');
 $routes->get('/company/blog', 'Company::blog');
 $routes->get('/company/contact', 'Company::contact');
+$routes->post('/company/contactsubmit', 'Company::contactsubmit');
 $routes->get('/company/privacypolicy', 'Company::privacypolicy');
 $routes->get('/company/termsandcondition', 'Company::termsandcondition');
 

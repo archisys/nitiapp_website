@@ -222,6 +222,70 @@
                 </a>
             </div>
         </div>
+        <div class="partner-slides owl-carousel owl-theme pt-75">
+            
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/art-of-living.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/astral.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/bbc.webp" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/dhl.webp" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/emaar.webp" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/gmr-group.png" alt="image">
+                </a>
+            </div>
+
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/hitachi.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/npci.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/tata.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/viacom-media.png" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/zenx.webp" alt="image">
+                </a>
+            </div>
+            <div class="partner-item">
+                <a href="#" class="d-block">
+                    <img src="<?php echo base_url(); ?>assets/img/app-progress/zydus-life.webp" alt="image">
+                </a>
+            </div>
+        </div>
     </div>
 </div>
 <!-- End Partner Area -->
@@ -256,8 +320,8 @@
             <div class="single-feedback-card">
                 <div class="client-info">
                     <div class="d-flex align-items-center">
-                        <img src="<?php echo base_url();?>assets/img/user/user1.jpg" alt="user">
-                        <div class="title">
+                        <!-- <img src="<?php echo base_url();?>assets/img/user/user1.jpg" alt="user"> -->
+                        <div>
                             <h3>Khagen Shah</h3>
                             <span>IT Head</span>
                         </div>
@@ -275,13 +339,79 @@
                     </div>
                 </div>
             </div>
+            <div class="single-feedback-card">
+                <div class="client-info">
+                    <div class="d-flex align-items-center">
+                        <!-- <img src="<?php echo base_url();?>assets/img/user/user1.jpg" alt="user"> -->
+                        <div>
+                            <h3>Ashish Srivastava</h3>
+                            <span>Associate V.P</span>
+                        </div>
+                    </div>
+                </div>
+                <p>Working with Niti's dynamic team was a transformative experience. They not only delivered a robust patient tracking app but also inspired confidence in the product’s potential. Their relentless focus on quality enabled us to thrive across multiple verticals, seamlessly implementing multi-language functionality across international markets.</p>
+                <div class="rating d-flex align-items-center justify-content-between">
+                    <h5>Biotech Healthcare</h5>
+                    <div>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="single-feedback-card">
+                <div class="client-info">
+                    <div class="d-flex align-items-center">
+                        <!-- <img src="<?php echo base_url();?>assets/img/user/user1.jpg" alt="user"> -->
+                        <div>
+                            <h3>Mayur Shah</h3>
+                            <span>Manager – Purchase</span>
+                        </div>
+                    </div>
+                </div>
+                <p>Niti's team played a crucial role in building our bidding portal, an essential bridge between manufacturing and supply. From discovery to product enhancement, their structured approach and attention to detail were remarkable. They provided consistent guidance at every milestone, ensuring smooth execution and delivering a quality product that exceeded expectations.</p>
+                <div class="rating d-flex align-items-center justify-content-between">
+                    <h5>Biotech Vision Care Pvt. Ltd.</h5>
+                    <div>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="single-feedback-card">
+                <div class="client-info">
+                    <div class="d-flex align-items-center">
+                        <!-- <img src="<?php echo base_url();?>assets/img/user/user1.jpg" alt="user"> -->
+                        <div>
+                            <h3>Aarohi Trivedi</h3>
+                            <span>AGM – Marketing Communications</span>
+                        </div>
+                    </div>
+                </div>
+                <p>The Niti team’s expertise and enthusiasm helped us reimagine the doctor-patient relationship by eliminating digital barriers. Their innovative approach across multiple projects in the healthcare domain delivered exceptional results. With Niti, we experienced a brand that prioritizes impactful solutions, quality processes, and genuine partnership, making them a go-to choice for digital transformation.</p>
+                <div class="rating d-flex align-items-center justify-content-between">
+                    <h5>Biotech Vision Care Pvt. Ltd.</h5>
+                    <div>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                        <i class="ri-star-fill"></i>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
 <!-- End New Feedback Area -->
 
 <!-- Start Blog Area -->
-<div class="blog-area pt-50 pb-75">
+<!-- <div class="blog-area pt-50 pb-75">
     <div class="container">
         <div class="partner-title">
             <h3>Stories Through Our Lens</h3>
@@ -326,7 +456,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Blog Area -->
 
 <div class="features-area pt-50 pb-75">

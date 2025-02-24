@@ -45,12 +45,12 @@
                                 <li class="nav-item"><a href="<?php echo base_url();?>company/about" class="nav-link">About Niti</a></li>
                                 <li class="nav-item"><a href="#" class="dropdown-toggle nav-link">Products</a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="<?php echo base_url();?>product/sfaclm" class="nav-link">SFA / CLM</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>product/dms" class="nav-link">Distributor Management / DMS</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>product/directtodoctor" class="nav-link">Direct to Doctor App / HCP App</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>product/hCPengagement" class="nav-link">Camp Management/ HCP Engagement</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>product/productcompliance" class="nav-link">Product Maintenance & Compliance</a></li>
-                                        <li class="nav-item"><a href="<?php echo base_url();?>product/alltrack" class="nav-link">All Track / Performance BI
+                                        <li class="nav-item"><a href="#" class="nav-link">SFA / CLM</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Distributor Management / DMS</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Direct to Doctor App / HCP App</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Camp Management/ HCP Engagement</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">Product Maintenance & Compliance</a></li>
+                                        <li class="nav-item"><a href="#" class="nav-link">All Track / Performance BI
                                         </a></li>
                                     </ul>
                                 </li>
@@ -63,7 +63,7 @@
                                         <li class="nav-item"><a href="#" class="nav-link">Market Access and Commercialization</a></li>
                                     </ul>
                                 </li> -->
-                                <li class="nav-item"><a href="<?php echo base_url();?>company/blog" class="nav-link">Blogs</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">Blogs</a></li>
                                 <!-- <li class="nav-item"><a href="<?php echo base_url();?>company/contact" class="nav-link">Contact</a></li> -->
                             </ul>
                             <div class="others-option">
