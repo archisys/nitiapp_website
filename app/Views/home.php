@@ -123,7 +123,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
-                    <a href="<?php echo base_url();?>product/dms">
+                    <a href="#">
                         <div class="features-item with-border">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/img/DMS.png">
@@ -134,7 +134,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
-                    <a href="<?php echo base_url();?>product/directtodoctor">
+                    <a href="#">
                         <div class="features-item with-border">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/img/products.png">
@@ -145,7 +145,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
-                    <a href="<?php echo base_url();?>product/hcpengagement">
+                    <a href="#">
                         <div class="features-item with-border">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/img/camp.png">
@@ -156,7 +156,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
-                    <a href="<?php echo base_url();?>product/productcompliance">
+                    <a href="#">
                         <div class="features-item with-border">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/img/HCP.png">
@@ -167,7 +167,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-6">
-                    <a href="<?php echo base_url();?>product/alltrack">
+                    <a href="#">
                         <div class="features-item with-border">
                             <div class="icon">
                                 <img src="<?php echo base_url(); ?>assets/img/all.png">
