@@ -64,8 +64,8 @@
                         <div class="single-footer-widget pl-2">
                             <h3>Company</h3>
                             <ul class="links-list">
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="<?php echo base_url();?>company/about">About us</a></li>
+                            <li><a href="<?php echo base_url();?>company/contact">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
